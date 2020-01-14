@@ -1,7 +1,7 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
   <groupId>jenkins_maven</groupId>
-  <artifactId>biggest</artifactId>
+  <artifactId>factorial</artifactId>
   <version>1</version>
   <packaging>war</packaging>
 
